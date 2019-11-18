@@ -1,0 +1,68 @@
+#one {
+    background: olive;
+    width: 100%;
+    padding: 100px;
+    position: fixed;
+    top: 0px;
+    height: 70px;
+    
+}
+
+
+#fakeone {
+    background: olive;
+    width: 100%;
+    padding: 100px;
+    
+}
+
+
+#two{
+    background: red;
+    width: 100%;
+    padding: 100px;
+    top: 100px;
+}
+
+#three{
+    background: yellow;
+    width: 100%;
+    padding: 100px;
+}
+
+#four{
+    background: blueviolet;
+    width: 100%;
+    padding: 100px;
+}
+
+#five{
+    background: burlywood;
+    width: 100%;
+    padding: 100px;
+}
+
+#six{
+    background: orange;
+    width: 100%;
+    padding: 100px;
+}
+
+#seven{
+    background: skyblue;
+    width: 100%;
+    padding: 100px;
+}
+
+
+#sidebar {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 1585px;
+    background: green;
+    width: 400px;
+    font-size: 50px;
+    
+}
